@@ -8,6 +8,7 @@
 <br>windows10/Androidでプレイできます。  
 <br>Android版のアプリは以下のリンクからインストールできます。
 <br>https://drive.google.com/file/d/141kuEWp2GXTWEmHTGuvipglQABQfELEX/view?usp=sharing
+<br>https://drive.google.com/file/d/1YHIihUN2YWw3bSPI4g4ncWRDaJP_jKnz/view?usp=sharing
 
 
 # 紹介ビデオ
