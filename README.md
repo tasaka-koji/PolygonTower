@@ -7,7 +7,7 @@
 2人対戦用オンラインパズルゲームで、「どうぶつたわーバトル」を似せて作りました。  
 <br>windows10/Androidでプレイできます。  
 <br>Android版のアプリは以下のリンクからインストールできます。
-<br>https://drive.google.com/file/d/141kuEWp2GXTWEmHTGuvipglQABQfELEX/view?usp=sharing
+<br>https://drive.google.com/file/d/1LMW1afFfK0TWXnDud3ezL3o-cQwF071L/view?usp=sharing
 <br>https://drive.google.com/file/d/1YHIihUN2YWw3bSPI4g4ncWRDaJP_jKnz/view?usp=sharing
 
 
