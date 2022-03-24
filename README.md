@@ -4,7 +4,7 @@
   <img src="images/matching.PNG" alt="Matching" height="420px">
   <img src="images/battle.PNG" alt="Battle" height="420px">
 </p>
-2人対戦用オンラインパズルゲームで、「どうぶつたわーバトル」を似せて作りました。  
+2人対戦用オンラインパズルゲームで、「どうぶつタワーバトル」を似せて作りました。  
 <br>windows10/Androidでプレイできます。  
 <br>Android版のアプリは以下のリンクからインストールできます。
 <br>容量は38MBほどで、一部のAndroid端末には対応してない場合がございます。
